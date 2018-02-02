@@ -1,16 +1,32 @@
 body{
   background-color: black;
   text-align: center;
+  font-family: Verdena, sans-serif;
+
 
 }
 h1{
   font-size: 50px;
   font-weight: bold;
-  font-family: Verdena, sans-serif;
   color: white;
 }
 
 a{
   color: Aquamarine;
   font-size: 16px;
+}
+
+h2{
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p{
+  font-size: 21px;
+  color: grey;
+}
+
+.trademark{
+  text-align: right;
 }
